@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    padding: 20px;
+    height: 800px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.item{
+    border: 3px solid blue;
+    padding: 40px;
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
