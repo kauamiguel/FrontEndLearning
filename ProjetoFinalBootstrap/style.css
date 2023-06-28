@@ -1,0 +1,110 @@
+/*
+Texto: #020303
+background: #eff0f0
+primária: #37393b
+secundária: #fafafa
+acentuação(cor forte, usar pouco): #4a4b48
+Pensou que ia escapar do vasconcelos?
+*/
+
+.navbar{        
+    background-color: #37393b;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px;
+}
+.navbar-brand{
+    color: #eff0f0;
+}
+.imagesOfContainer{
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+    border-radius: 20%;
+}
+
+body{
+    background-color:#eff0f0;
+}
+
+.description{
+    text-align: left;
+    padding: 40px;
+}
+
+.gameTitle{
+   padding-bottom: 5px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.buttonEndPagen{
+    padding: 20px;
+}
+
+.cardImage{
+    width: 80px;
+    height: 80px;
+    border-radius: 20%;
+}
+
+.textOfdesciptionPage{
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gameDescription{
+    padding: 20px;
+}
+
+.gameTable{
+    padding: 20px;
+}
+
+.card-img-top{
+    height: 300px;
+}
+#fix1{
+    width: 30vw;
+    margin: 10px;
+    
+}
+#fix2{
+    width: 30vw;
+    margin: 10px;
+
+}
+.footer{
+    width: 100%;
+    background-color: #37393b;
+}
+.inputgrupo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+#button-addon2{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #4a4b48;
+    border-color: #37393b;
+}
+.table{
+    background-color: #fafafa;
+    box-shadow: 0px 0px 2px;
+}
+#butao{
+    background-color: #4a4b48;
+    border-color: #37393b;
+}
+#shadowthehedgehog{
+    box-shadow: 5px 5px 20px;
+    color: #37393b;
+}
+.card{
+    box-shadow: 0px 0px 15px;
+}
+
+
+
+
